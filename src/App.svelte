@@ -1,1 +1,9 @@
-<h1>Test</h1>
+<script>
+	import Timer from "./Timer.svelte";
+	import HowTo from "./HowTo.svelte";
+</script>
+
+<h1>Handwashing App</h1>
+
+<Timer />
+<HowTo />
