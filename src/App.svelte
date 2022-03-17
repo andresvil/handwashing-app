@@ -8,7 +8,7 @@
 	}
 </script>
 
-<h1>Handwashing App</h1>
+<h1>Handwashing Timer</h1>
 
 <Timer on:end={timerEnds} />
 <HowTo />
